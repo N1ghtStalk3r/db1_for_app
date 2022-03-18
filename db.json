@@ -5,6 +5,7 @@
     ],
   
   "users": [
-    { "id": 2, "name": "John Smith", "age": 34  }
+    { "id": 1, "name": "John Smith", "age": 34  },
+    { "id": 2, "name": "Ada Wong", "age": 21  }
   ]
 }

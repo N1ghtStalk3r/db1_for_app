@@ -9,8 +9,7 @@
     { "id": 2, "name": "Ada Wong", "age": 21  }
   ],
   
-  "contracts": [
-    {
+  "contracts":  {
       "contractId": "1",
 
       "contractTitle": "Json server testing",
@@ -31,7 +30,7 @@
 
       "contractDescription": "You need to keep moving",
 
-
+      "contractSkills": ["kind", "handy"],
 
       "contractCountry": "Russia",
 
@@ -48,5 +47,4 @@
       "contractHairColor": "Black",
 
       "contractEyeColor": "Black"}
-  ]
 }

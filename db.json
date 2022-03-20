@@ -30,7 +30,7 @@
 
       "contractDescription": "You need to keep moving",
 
-      "contractSkills": ["kind", "handy"],
+      { "contractSkills": ["kind", "handy"] },
 
       "contractCountry": "Russia",
 

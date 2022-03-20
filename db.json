@@ -10,6 +10,43 @@
   ],
   
   "contracts": [
-    {}
+    {
+      "contractId": "1",
+
+      "contractTitle": "Json server testing",
+
+      "contractLocation": "Moscow",
+
+      "contractStartDate": 10000,
+
+      "contractEndDate": 20000,
+
+      "contractType": "Gig",
+
+      "contractCompensation": "12000",
+
+      "contractStatus": "Available",
+
+      "isContractFavorite": false,
+
+      "contractDescription": "You need to keep moving",
+
+      "contractSkills": ["kind", "handy"],
+
+      "contractCountry": "Russia",
+
+      "contractLanguage": "Russian,
+
+      "contractAge": 24,
+
+      "contractHeight": 180,
+
+      "contractWeight": 80,
+
+      "contractBodyType": "Athletic",
+
+      "contractHairColor": "Black",
+
+      "contractEyeColor": "Black"}
   ]
 }
